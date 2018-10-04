@@ -1,0 +1,5 @@
+Credentials cache: API:43141
+        Principal: dtraore@42.US.ORG
+
+  Issued                Expires               Principal
+Sep 19 17:55:47 2018  Sep 20 03:55:47 2018  krbtgt/42.US.ORG@42.US.ORG
